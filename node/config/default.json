@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
+    "appSecret": "1283746965046074",
+    "pageAccessToken": "EAASPj6HVQzoBAHSXUZBt0sLBcuShpZBE8daeZB95crlMYK9AvHlnb6UXd2Ik6ZBNexD6zyxB6t1PoBKWTn8ZBS1J12tbSsH9SL1UXDaRRCeRrSbnZCCFrukwW0wZAkGJmQYmEf6iKgVUPUkmZA9lbsf3u08iHEmr3q55cTGApT4F6gZDZD",
     "validationToken": "YingToken",
-    "serverURL": ""
+    "serverURL": "https://secure-lake-47705.herokuapp.com"
 }
